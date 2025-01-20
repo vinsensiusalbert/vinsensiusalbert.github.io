@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Seasoned data scientist with a deep experience in optimisation, algorithm design, cross-functional collaboration, and strategic applications of data science solutions to drive business and operational innovation across multiple domains.",
+    "summary": "Seasoned data scientist with deep experience in optimisation, algorithm design, cross-functional collaboration, and strategic applications of data science solutions to drive business and operational innovation across multiple domains.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,11 +24,21 @@
   },
   "work": [
     {
+      "name": "American Express",
+      "position": "Senior Manager, Data Science",
+      "url": "",
+      "startDate": "2024-11-21",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Enterprise Data and Augmented Intelligence"
+            ]
+    },
+    {
       "name": "Grab",
       "position": "Principal Data Scientist",
       "url": "",
       "startDate": "2019-07-22",
-      "endDate": "",
+      "endDate": "2024-11-19",
       "summary": "",
       "highlights": ["Proposed, designed, and implemented various optimisation and machine learning (ML) solutions and data science product roadmaps to support and enable product features across multiple use cases both online (mobile application) and offline (operations).",
               "Drove adoption of optimisation and ML systems in cross-functional teams of engineering, analytics, and product stakeholders while communicating complex technical solutions clearly to business and operations stakeholders.",
